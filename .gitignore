@@ -1,0 +1,27 @@
+# Local .terraform directories
+**/.terraform*
+**/*.tfvars
+**/*tfplan*
+**/*.tfstate*
+**/crash.log
+**/override.tf
+**/override.tf.json
+**/*_override.tf
+**/*_override.tf.json
+**/.terraformrc
+**/terraform.rc
+**/hello-world.zip
+**/response.json
+**/.vagrant*
+**/.aws*
+**/.kube*
+
+
+# eksa binaries
+**/*.tar.gz
+**/eksa-*
+
+# bash binaries
+**/.ash_history
+**/.bash_history
+
